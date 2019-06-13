@@ -1,0 +1,23 @@
+.head{
+    text-align: center;
+}
+
+.a{
+    display: inline-block;
+    margin: 15px 30px 15px 40px;
+    
+
+}
+
+.b{
+    display: inline-block;
+    vertical-align:top;
+    margin: 15px 20px 15px 40px;
+
+
+
+}
+
+.but{
+    background-color: green;
+}
